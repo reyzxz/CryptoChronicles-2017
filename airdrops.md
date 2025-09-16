@@ -22,4 +22,5 @@ These airdrops were the start of my deeper dive into crypto. What began as a hob
 ---
 
 _I’m not writing this to brag. Just archiving some OG moments that few people know about._  
-**If you’re reading this — congrats, you’ve found a piece of crypto history.**
+**If you’re reading this - congrats, you’ve found a piece of crypto history.**
+🌟 OG Airdrop Chronicles: Honoring the early crypto hustle!
