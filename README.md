@@ -12,7 +12,7 @@ I’ve seen it all, lived through it, and learned.
 
 Why This Repo Exists
 
-This is my archive. A place to reflect on my journey — the wins, the losses, the lessons, and the madness that shaped me in this unforgiving space.
+This is my archive. A place to reflect on my journey - the wins, the losses, the lessons, and the madness that shaped me in this unforgiving space.
 
 2025 and Beyond
 
