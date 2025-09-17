@@ -1,4 +1,4 @@
-CryptoChronicles-2017
+# CryptoChronicles-2017
 
 Welcome to my crypto time capsule.
 Back in 2017, when most people barely knew what blockchain was, I dove headfirst into the chaos.
@@ -18,4 +18,5 @@ This is my archive. A place to reflect on my journey - the wins, the losses, the
 
 Still here. Still grinding. Mapping airdrops, hunting alpha, running validators, and writing my own story.
 This repo is a reminder: never stop moving forward.
-⏳ CryptoChronicles-2017: Lessons from the chaos!
+
+# CryptoChronicles-2017: Lessons from the chaos!
